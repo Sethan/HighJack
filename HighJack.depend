@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1563232122 source:c:\users\zurah\cplusplus\highjack\blockcollection.cpp
+
+1563926352 source:c:\users\zurah\cplusplus\highjack\block.cpp
+	<iostream>
+	<bitset>
+	<vector>
+	<string>
+
+1563926198 source:c:\users\zurah\cplusplus\highjack\controller.cpp
+	<iostream>
+	"block.cpp"
+	<vector>
+	<stdlib.h>
+
+1563926352 c:\users\zurah\cplusplus\highjack\block.cpp
+	<iostream>
+	<bitset>
+	<vector>
+	<string>
+
+1563924587 source:c:\users\zurah\cplusplus\highjack\main.cpp
+	<iostream>
+	"controller.cpp"
+
+1563926383 c:\users\zurah\cplusplus\highjack\controller.cpp
+	<iostream>
+	"block.cpp"
+	<vector>
+	<stdlib.h>
+
